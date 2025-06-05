@@ -9,3 +9,9 @@ parts:
       sections:
       - file: courses/bootcamps/programming/lecture1.md
       - file: courses/bootcamps/programming/lecture2.md
+- caption: 学员
+  chapters:
+  - file: learners/staff/README.md
+    sections:
+    - file: learners/staff/tech.md
+    - file: learners/staff/research.md
