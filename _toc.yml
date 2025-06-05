@@ -4,3 +4,8 @@ parts:
 - caption: 课程
   chapters:
   - file: courses/bootcamps/README.md
+    sections:
+    - file: courses/bootcamps/programming/README.md
+      sections:
+      - file: courses/bootcamps/programming/lecture1.md
+      - file: courses/bootcamps/programming/lecture2.md
